@@ -1,0 +1,13 @@
+[
+    ["changeprefix", "Usalo para cambiar el prefijo."],
+    ["createtourney", "Herramienta para crear un torneo con nombre y tamaño personalizados."],
+    ["deletetourney", "Para eliminar el torneo actual. Usar con cuidado."],
+    ["join", "Los usuarios pueden unirse a un torneo abierto con éste comando."],
+    ["begintourney", "Comienza la fase preliminar y crea los pares de partidos por jornada."],
+    ["beginbrackets", "Termina la fase preliminar y comienza las eliminatorias para decidir un ganador."],
+    ["points", "Durante la fase preliminar, muestra la lista de jugadores, ordenados por puntos.\nDurante la fase eliminatoria, muestra una imagen con todos los partidos jugados y restantes del torneo.\nUsar '*__points__ + __nickname__*' asigna a un jugador como ganador de su último partido pendiente."],
+    ["day", "'*__day__ + __un número__*' crea una imagen y muestra los pares en una jornada preliminar.\n '*__day__ + __un número__ + __nickname__ + __puntos__*' asigna puntos para el jugador, y los puntos opuestos para su contrincante."],
+    ["reset / clear", "'*__reset__ + __un numero__ + __nickname__*' restaura los puntos de ambos jugadores en un partido preliminar a 0."],
+    ["adminpoints", "El creador del torneo puede usar '*__adminpoints__ + __0__ / __1__* ' para prohibir o permitir a los participantes asignar puntos por su cuenta. Prohibido por defecto."],
+    ["help", "Para pedir la lista de comandos nuevamente."]
+]
