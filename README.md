@@ -138,5 +138,4 @@ Needless to say, you cannot request another image if one is being created. You j
 
 -----------------------------------------------------
 
-*If you need help with localization or any other inquiries, feel free to contact me on Discord at __Ertie#1858__!*\
-*Or at [Twitter](http://twitter.com/Ertie_exe)!!*
+*[LinkedIn](https://www.linkedin.com/in/ertie-exe/)!!*
